@@ -1,6 +1,6 @@
 # Fox Stackblitz
 
-Source Branch from Fox: refs/heads/feature/install-check-pipeline
+Source Branch from Fox: 
 
-[Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/02901e38347ce4369d61cf2576ccb4c9f46e02a9?terminal=start)
-[View Fox](https://github.com/assecosolutions/fox/tree/ba1b5bddf800afad723210c15eac9629b0ad6304)
+- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/77ed286c29f99fbe5b947f35d6485e24d80bb6c6?terminal=start)
+- [View Fox](https://github.com/assecosolutions/fox/tree/07bbdda638cefe3cd2c7eeab149a7f08324a451c)
