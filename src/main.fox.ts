@@ -1,1 +1,1 @@
-import "@assecosolutions/fox-button"
+import "@assecosolutions/fox-preview"

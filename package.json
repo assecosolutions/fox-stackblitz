@@ -20,6 +20,7 @@
     "@angular/router": "~13.3.0",
     "@assecosolutions/fox-badge": "^1.5.20",
     "@assecosolutions/fox-button": "^1.5.26",
+    "@assecosolutions/fox-preview": "^1.5.15",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
