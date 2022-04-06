@@ -1,3 +1,3 @@
 # Fox Stackblitz
 
-https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/8bfe397f24e24964eea17c0700a2f32354df7a3a
+https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/ac5b74c46a4b1b611840c859c7a9f09b76a77738
