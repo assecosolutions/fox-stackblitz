@@ -1,1 +1,1 @@
-import "@assecosolutions/fox-badge"
+import "@assecosolutions/fox-button"
