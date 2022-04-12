@@ -1,11 +1,11 @@
 # npm resolution error report
 
-2022-04-12T12:22:50.030Z
+2022-04-12T12:53:32.678Z
 
 While resolving: fox-stackblitz@0.0.0
-Found: @assecosolutions/fox-badge@1.5.21-beta.5
+Found: @assecosolutions/fox-badge@1.5.21-beta.6
 node_modules/@assecosolutions/fox-badge
-  @assecosolutions/fox-badge@"^1.5.21-beta.5" from the root project
+  @assecosolutions/fox-badge@"^1.5.21-beta.6" from the root project
 
 Could not resolve dependency:
 peer @assecosolutions/fox-badge@"1.5.15" from @assecosolutions/fox-preview@1.5.15
@@ -22,7 +22,7 @@ Raw JSON explanation object:
   "code": "ERESOLVE",
   "current": {
     "name": "@assecosolutions/fox-badge",
-    "version": "1.5.21-beta.5",
+    "version": "1.5.21-beta.6",
     "whileInstalling": {
       "name": "fox-stackblitz",
       "version": "0.0.0",
@@ -34,7 +34,7 @@ Raw JSON explanation object:
       {
         "type": "prod",
         "name": "@assecosolutions/fox-badge",
-        "spec": "^1.5.21-beta.5",
+        "spec": "^1.5.21-beta.6",
         "from": {
           "location": "/home/runner/work/fox/fox"
         }
@@ -44,7 +44,7 @@ Raw JSON explanation object:
   "currentEdge": {
     "type": "prod",
     "name": "@assecosolutions/fox-badge",
-    "spec": "^1.5.21-beta.5",
+    "spec": "^1.5.21-beta.6",
     "from": {
       "location": "/home/runner/work/fox/fox"
     }
