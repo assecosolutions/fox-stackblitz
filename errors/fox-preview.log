@@ -2,9 +2,9 @@ npm ERR! code ERESOLVE
 npm ERR! ERESOLVE unable to resolve dependency tree
 npm ERR! 
 npm ERR! While resolving: fox-stackblitz@0.0.0
-npm ERR! Found: @assecosolutions/fox-badge@1.5.21-beta.8-beta.0
+npm ERR! Found: @assecosolutions/fox-badge@1.5.21-beta.8
 npm ERR! node_modules/@assecosolutions/fox-badge
-npm ERR!   @assecosolutions/fox-badge@"^1.5.21-beta.11" from the root project
+npm ERR!   @assecosolutions/fox-badge@"^1.5.21-alpha.2" from the root project
 npm ERR! 
 npm ERR! Could not resolve dependency:
 npm ERR! peer @assecosolutions/fox-badge@"1.5.15" from @assecosolutions/fox-preview@1.5.15
@@ -18,4 +18,4 @@ npm ERR!
 npm ERR! See /home/runner/.npm/eresolve-report.txt for a full report.
 
 npm ERR! A complete log of this run can be found in:
-npm ERR!     /home/runner/.npm/_logs/2022-04-13T11_17_04_305Z-debug-0.log
+npm ERR!     /home/runner/.npm/_logs/2022-04-13T12_20_15_759Z-debug-0.log
