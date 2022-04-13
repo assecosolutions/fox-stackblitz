@@ -25,7 +25,7 @@ const updateFoxPackages = () => {
       writeFileSync(`errors/${pkg.split('/')[1]}.log`, error.stderr.toString());
     }
 
-    appendFileSync('src/main.fox.ts', `import \'${pkg}\'\n`);
+    appendFileSync('src/main.fox.ts', `import \'${pkg}\';\n`);
   });
 };
 
