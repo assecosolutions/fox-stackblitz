@@ -23,7 +23,7 @@
     "@assecosolutions/fox-app-bar": "^1.5.23-beta.8",
     "@assecosolutions/fox-back-layer": "^1.5.21-beta.9",
     "@assecosolutions/fox-badge": "^1.5.21-beta.8",
-    "@assecosolutions/fox-button": "^1.5.27-beta.8",
+    "@assecosolutions/fox-button": "^1.5.27-beta.8-beta.0",
     "@assecosolutions/fox-card": "^1.5.21-beta.9",
     "@assecosolutions/fox-card-list": "^1.5.21-beta.8",
     "@assecosolutions/fox-chart": "^1.5.21-beta.8",
