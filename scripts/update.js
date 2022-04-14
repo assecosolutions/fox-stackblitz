@@ -18,6 +18,11 @@ const updateFoxPackages = () => {
     const versions = Object.keys(pkgInfo.time);
     const lastPublishedVersion = versions[versions.length - 1];
 
+    if (pkgInfo.deprecated) {
+      console.log('Skipping deprecated package: ', pkg);
+      return;
+    }
+
     try {
       execSync(`npm install --save -E ${pkg}@${lastPublishedVersion}`);
     } catch (error) {
