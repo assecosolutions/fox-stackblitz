@@ -19,9 +19,9 @@ const updateFoxPackages = () => {
     const lastPublishedVersion = versions[versions.length - 1];
 
     try {
-      execSync(`npm install --save ${pkg}@${lastPublishedVersion}`);
+      execSync(`npm install --save -E ${pkg}@${lastPublishedVersion}`);
     } catch (error) {
-      execSync(`npm install --save --force ${pkg}@${lastPublishedVersion}`);
+      execSync(`npm install --save -E --force ${pkg}@${lastPublishedVersion}`);
       writeFileSync(`errors/${pkg.split('/')[1]}.log`, error.stderr.toString());
     }
 
