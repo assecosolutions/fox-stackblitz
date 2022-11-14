@@ -1,6 +1,7 @@
 import '@assecosolutions/fox-accordion';
 import '@assecosolutions/fox-activity-list';
 import '@assecosolutions/fox-app-bar';
+import '@assecosolutions/fox-avatar';
 import '@assecosolutions/fox-back-layer';
 import '@assecosolutions/fox-badge';
 import '@assecosolutions/fox-button';
@@ -22,6 +23,7 @@ import '@assecosolutions/fox-icon';
 import '@assecosolutions/fox-icon-button';
 import '@assecosolutions/fox-icon-button-toggle';
 import '@assecosolutions/fox-icon-grid';
+import '@assecosolutions/fox-image';
 import '@assecosolutions/fox-indicator';
 import '@assecosolutions/fox-kanban-board';
 import '@assecosolutions/fox-list';
