@@ -2,5 +2,5 @@
 
 Source Branch from Fox: refs/heads/next/new-design
 
-- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/69b8567dde4b35bd7a61ce237f1393c898c4c55b?terminal=start)
-- [View Fox](https://github.com/assecosolutions/fox/tree/d9cbc4a0fed792f44b5da8227f86a29ce7c6666c)
+- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/e185820ba0f1d4699fba71671d17eb52f1941bd9?terminal=start)
+- [View Fox](https://github.com/assecosolutions/fox/tree/1eefa2fb23e64eefe92d8ec4c8163ece78bd776b)
