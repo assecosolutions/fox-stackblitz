@@ -49,3 +49,4 @@ import '@assecosolutions/fox-textarea';
 import '@assecosolutions/fox-textfield';
 import '@assecosolutions/fox-typed-field';
 import '@assecosolutions/fox-user-profile';
+import '@assecosolutions/fox-virtualizer';
