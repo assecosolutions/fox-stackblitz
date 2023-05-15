@@ -28,6 +28,7 @@ import '@assecosolutions/fox-icon-grid';
 import '@assecosolutions/fox-image';
 import '@assecosolutions/fox-indicator';
 import '@assecosolutions/fox-kanban-board';
+import '@assecosolutions/fox-kanban-card';
 import '@assecosolutions/fox-list';
 import '@assecosolutions/fox-list-extended';
 import '@assecosolutions/fox-menu';
