@@ -1,6 +1,6 @@
 # Fox StackBlitz
 
-Source Branch from Fox: refs/heads/master
+Source Branch from Fox: refs/heads/beta/as-2200
 
-- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/c9774f26813fcc53e75a293931006fcaca82aa9c?terminal=start)
-- [View Fox](https://github.com/assecosolutions/fox/tree/ab4e7c2157d7b19068a7d69e06dcdbe368a92d25)
+- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/2513196f7d9afad4fefc3f5e15379be6cc670ad7?terminal=start)
+- [View Fox](https://github.com/assecosolutions/fox/tree/a93660210232ad8379184e098a1a90778e3d889e)
