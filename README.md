@@ -2,5 +2,5 @@
 
 Source Branch from Fox: refs/heads/master
 
-- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/81bd488b4e3c8ddea303842adee753732a9f70cc?terminal=start)
-- [View Fox](https://github.com/assecosolutions/fox/tree/76c295fb3e4939a7252aab880063bf43bf86438b)
+- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/94ad25db6712f921e524c487ab8843b53abca414?terminal=start)
+- [View Fox](https://github.com/assecosolutions/fox/tree/d39df64910017a3bd222f8395bdb3416822b5fe2)
