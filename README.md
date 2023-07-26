@@ -1,6 +1,6 @@
 # Fox StackBlitz
 
-Source Branch from Fox: refs/heads/master
+Source Branch from Fox: refs/heads/beta/as-2922-card-fix
 
-- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/94ad25db6712f921e524c487ab8843b53abca414?terminal=start)
-- [View Fox](https://github.com/assecosolutions/fox/tree/d39df64910017a3bd222f8395bdb3416822b5fe2)
+- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/ae5b635087c664ab13c431058427b81c8ed20444?terminal=start)
+- [View Fox](https://github.com/assecosolutions/fox/tree/aa74f24b6515eb1e12ccb50ee742f8ec96623ac8)
