@@ -1,6 +1,6 @@
 # Fox StackBlitz
 
-Source Branch from Fox: refs/heads/beta/as-2922-card-fix
+Source Branch from Fox: refs/heads/beta/as-2922-card-text-color
 
-- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/ae5b635087c664ab13c431058427b81c8ed20444?terminal=start)
-- [View Fox](https://github.com/assecosolutions/fox/tree/aa74f24b6515eb1e12ccb50ee742f8ec96623ac8)
+- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/437be943e018732c46eab2a10ab0cc7edd1f88cb?terminal=start)
+- [View Fox](https://github.com/assecosolutions/fox/tree/105c4698715f27fb4baf60583cee06679b6579bd)
