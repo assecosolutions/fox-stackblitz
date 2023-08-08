@@ -1,6 +1,6 @@
 # Fox StackBlitz
 
-Source Branch from Fox: refs/heads/beta/as-2922-card-text-color
+Source Branch from Fox: refs/heads/beta/as-2173-user-profile-picture
 
-- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/437be943e018732c46eab2a10ab0cc7edd1f88cb?terminal=start)
-- [View Fox](https://github.com/assecosolutions/fox/tree/105c4698715f27fb4baf60583cee06679b6579bd)
+- [Open StackBlitz](https://stackblitz.com/github/assecosolutions/fox-stackblitz/tree/64dfe75ccf0fb0220927be2424b0bb48d7cfa0bf?terminal=start)
+- [View Fox](https://github.com/assecosolutions/fox/tree/84159821f375eb1eb1ab50b842ffe4dda7b1889a)
