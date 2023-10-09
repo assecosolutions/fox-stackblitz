@@ -21,7 +21,7 @@
     "@angular/router": "~13.3.0",
     "@assecosolutions/fox-accordion": "1.11.6",
     "@assecosolutions/fox-activity-list": "1.11.6",
-    "@assecosolutions/fox-app-bar": "1.11.6",
+    "@assecosolutions/fox-app-bar": "1.11.7",
     "@assecosolutions/fox-avatar": "1.11.7",
     "@assecosolutions/fox-back-layer": "1.11.5",
     "@assecosolutions/fox-badge": "1.11.6",
