@@ -19,6 +19,7 @@ import '@assecosolutions/fox-condition-executor';
 import '@assecosolutions/fox-content-layer';
 import '@assecosolutions/fox-datepicker';
 import '@assecosolutions/fox-dialog';
+import '@assecosolutions/fox-file-table';
 import '@assecosolutions/fox-formfield';
 import '@assecosolutions/fox-front-layer';
 import '@assecosolutions/fox-icon';
