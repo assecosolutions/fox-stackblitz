@@ -6,6 +6,7 @@ import '@assecosolutions/fox-back-layer';
 import '@assecosolutions/fox-badge';
 import '@assecosolutions/fox-breadcrumb';
 import '@assecosolutions/fox-button';
+import '@assecosolutions/fox-button-group';
 import '@assecosolutions/fox-card';
 import '@assecosolutions/fox-card-list';
 import '@assecosolutions/fox-chart';
